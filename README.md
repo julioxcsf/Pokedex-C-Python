@@ -4,48 +4,48 @@ Trabalho final da disciplina de Linguagens de Programação (UFRJ), consistindo 
 
 ---
 
-## 🖼️ Exemplos de Interface
+##  Exemplos de Interface
 
 Abaixo, algumas capturas de tela do funcionamento da Pokédex e do gerenciamento de equipe no programa:
 
-### 🧭 Menu Inicial
+### Menu Inicial
 
-![Menu Inicial](Images/menu-inicial.png)
-
----
-
-### 🔍 Exemplo de Filtro de Pokémon
-
-Busca por nome parcial ou completo:
-
-![Filtro 1](Images/exemplo-de-filtro1.png)  
-![Filtro 2](Images/exemplo-de-filtro2.png)
+<img src="Imagens-exemplos/menu-inicial.png" width="500"/>
 
 ---
 
-### 🧠 Gestão de Equipe
+### Exemplo de Filtro de Pokémon
+
+Busca por nome parcial ou completo com atualização enquanto digita:
+
+<img src="Imagens-exemplos/exemplo-de-filtro1.png" width="400"/>
+<img src="Imagens-exemplos/exemplo-de-filtro2.png" width="400"/>
+
+---
+
+### Gestão de Equipe
 
 Estado inicial da equipe:
 
-![Equipe vazia](Images/equipe-vazia.png)
+<img src="Imagens-exemplos/equipe-vazia.png" width="300"/>
 
 Equipe montada com até 6 Pokémon:
 
-![Equipe montada](Images/equipe-montada.png)
+<img src="Imagens-exemplos/equipe-montada.png" width="500"/>
 
 ---
 
-### 🌀 Status de um Pokémon
+### Status de um Pokémon
 
 Visualização de um Pokémon **dentro** e **fora** da equipe:
 
 - Dentro da equipe:  
-  ![Porygon-Z na Equipe](Images/Porygon-Z_naEquipe.png)
+<img src="Imagens-exemplos/Porygon-Z_naEquipe.png" width="350"/>
 
 - Fora da equipe:  
-  ![Porygon-Z fora da Equipe](Images/Porygon-Z_foraDaEquipe.png)
+<img src="Imagens-exemplos/Porygon-Z_foraDaEquipe.png" width="350"/>
 
-## 🚀 Como Usar o Programa
+## Como Usar o Programa
 
 ### ✅ Requisitos
 
